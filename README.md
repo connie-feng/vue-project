@@ -22,6 +22,7 @@ npm install
 
 ```sh
 npm run dev
+npm run backend
 ```
 
 ### Compile and Minify for Production
